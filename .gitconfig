@@ -1,0 +1,12 @@
+[user]
+	name = saransuresh
+	email = saran.kumar@docon.co.in
+[core]
+	autocrlf = input
+	editor = micro
+[color]
+	ui = true
+[pull]
+	ff = only
+[init]
+	defaultBranch = main
